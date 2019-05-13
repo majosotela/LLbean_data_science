@@ -14,7 +14,6 @@ Escriba un código en python que determine cual grupo de personas
 contiene la mayor de todas las alturas de todas las personas
 """
 
-
 users_List =[[177,145,167,190,140,150,180,130],
              [165,176,145,189,170,189,159,190],
              [145,136,178,200,123,145,145,134],
@@ -33,5 +32,5 @@ for i in users_List:
         max_height = i
 
 """
-aqui por mas que trate de mover esto solo me reconoce el print del for de arriba, pero no me sirve
+me da un error pero me imprime correctamente el resultado
 """
